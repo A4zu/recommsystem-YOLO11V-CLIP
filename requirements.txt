@@ -1,1 +1,10 @@
 
+torch
+torchvision
+ultralytics
+transformers
+faiss-cpu
+numpy
+Pillow
+opencv-python
+tqdm
