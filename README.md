@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Nəticə](results/output.jpg)
+
 This project is a **content-based fashion recommendation system** built with the **DeepFashion2** dataset. It detects clothing items in an input image using **YOLO**, extracts visual features with **CLIP**, and retrieves the most similar clothing items using **FAISS**.
 
 ## Features
